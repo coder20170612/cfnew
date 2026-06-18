@@ -1,7 +1,7 @@
 // CFnew - 终端 v2.9.8b
 // 版本: v2.9.8b 
 import { connect as 连接 } from 'cloudflare:sockets';
-let 认证令牌 = 'f28bd18a-c525-4fee-82b4-dc773b5b871d';
+let 认证令牌 = 'e906-4ded-b06b-f67a62fdd499';
 let 回退地址 = '';
 let 代理5配置 = '';
 let 自定义优选地址列表 = [];
